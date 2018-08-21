@@ -1,0 +1,36 @@
+form{
+	width:500px;
+}
+h2{
+	color:red;
+}
+
+h3{
+	color:deepskyblue;
+	text-decoration:underline;
+}
+
+hr{
+	margin-bottom:40px;
+}
+
+fieldset{
+	padding:10px;
+	border:double green 4px;
+}
+
+legend{
+	color:green;
+	font:bold 14px tahoma;
+	border:solid 1px green;
+}
+
+a{
+	padding:10px;
+	margin : 10px;
+	font-size : 26px;
+	text-decoration:none;
+	color:deepskyblue;
+	border: solid 2px deepskyblue;
+	
+}
